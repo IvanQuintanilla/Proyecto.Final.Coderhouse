@@ -30,6 +30,13 @@ body {
   .imagenanim.imagenanim:hover {
     transform: scale(1.1, 1.1); }
 
+.respuesta{
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: right;
+  }
+
+
 /* mapa */
 .Mapa {
   width: 50%;
